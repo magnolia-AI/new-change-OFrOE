@@ -16,19 +16,13 @@ This is a versatile template for building web applications with Next.js and Tail
 1. Clone this repository or use it as a template
 2. Install dependencies:
    ```bash
-   npm install
-   # or
-   yarn install
-   # or
-   pnpm install
+   bun install
+   # or npm install / yarn install / pnpm install
    ```
 3. Run the development server:
    ```bash
-   npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
+   bun run dev
+   # or npm run dev / yarn dev / pnpm dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
@@ -56,3 +50,5 @@ To learn more about the technologies used in this template:
 ## License
 
 This template is MIT licensed.
+
+
